@@ -1,0 +1,16 @@
+{
+  "name": "aws-serverless-cron-job-example",
+  "version": "1.0.0",
+  "description": "Example for setting up a cron job in AWS using Serverless.",
+  "main": "index.js",
+  "scripts": {
+    "sls:deploy": "sls deploy",
+    "sls:remove": "sls remove"
+  },
+  "keywords": [],
+  "author": "Henry Williams",
+  "license": "MIT",
+  "dependencies": {
+    "serverless": "^1.39.1"
+  }
+}
